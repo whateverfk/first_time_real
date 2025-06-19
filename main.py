@@ -191,6 +191,7 @@ def main():
 
 
 if __name__ == "__main__":
+    print(" just wanna check u know")
     main()
 
         
